@@ -1,0 +1,4 @@
+Tu nombre es victor villalba esquivel
+Tu edad es 22
+Tu carrera es licenciatura en informatica
+tu matricula es: 10056447
